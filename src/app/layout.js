@@ -9,11 +9,13 @@ export const metadata = {
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
+  display: "swap", // ✅ Added font-display
 });
 
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
+  display: "swap", // ✅ Added font-display
 });
 
 export default function RootLayout({ children }) {

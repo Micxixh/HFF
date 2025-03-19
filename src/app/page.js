@@ -15,7 +15,7 @@ export default function Home() {
           <span className="material-symbols-outlined">mail</span>
           contact@hff.co.uk
         </a>
-      </header> 
+      </header>
 
       {/* Navigation Bar */}
       <nav className="sticky top-0 bg-white flex justify-between items-center px-10 py-4 shadow-md z-50">
@@ -34,10 +34,10 @@ export default function Home() {
 
       {/* Hero Section */}
       <section id="home" className="flex flex-col md:flex-row items-center justify-between px-10 py-20">
-        <div className=" w-full md:w-1/2 text-center md:text-left">
-          <h1 className="text-4xl font-bold text-gray-900">Heavy Freight & Furniture Ltd.</h1>
+        <div className="w-full md:w-1/2 text-center md:text-left">
+          <h1 className="text-4xl font-bold text-gray-900">Heavy Freight &amp; Furniture Ltd.</h1>
           <p className="mt-4 text-lg text-gray-600">
-            If you have a large, bulky item or items that need delivering across the UK, HFF delivery service is the ideal solution. We’re available 24 hours a day, 7 days a week, and can get started on your order at a moment’s notice.
+            If you have a large, bulky item or items that need delivering across the UK, HFF delivery service is the ideal solution. We&apos;re available 24 hours a day, 7 days a week, and can get started on your order at a moment&apos;s notice.
           </p>
           <a className="bg-[#06BEFF] text-white px-6 py-3 rounded-md inline-block mt-6" href="#contact">
             Request a Quote
