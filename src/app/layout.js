@@ -30,9 +30,7 @@ export default function RootLayout({ children }) {
           onLoad="this.media='all'"
         />
       </head>
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         {children}
       </body>
     </html>

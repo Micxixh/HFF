@@ -283,7 +283,7 @@ export default function Home() {
               <li><strong>Ivory and other banned products</strong></li>
               <li><strong>Jewellery, loose precious stones</strong></li>
               <li><strong>Medical samples</strong> (includes bodily fluids and tissue)</li>
-              <li><strong>Negotiable and 'Cash-like' instruments</strong> (e.g., blank cheques, credit cards, event tickets, currency, SIM cards, unused stamps)</li>
+              <li><strong>Negotiable and &apos;Cash-like&apos; instruments</strong> (e.g., blank cheques, credit cards, event tickets, currency, SIM cards, unused stamps)</li>
               <li><strong>Perfumes and Aftershaves</strong></li>
               <li><strong>Perishable items</strong></li>
               <li><strong>Pornography</strong></li>
